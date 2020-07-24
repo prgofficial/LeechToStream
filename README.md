@@ -8,14 +8,7 @@
 ## For Support join here [MoviezOnlySupport](https://telegram.dog/moviezonlysupport)
 ## Working example group [Leech Here](https://telegram.dog/leechtorrentmoviesonly)
 
-# Benefits :-
-    ✓ Telegram File mirrorring to cloud along with its unzipping, unrar and untar
-    ✓ Drive/Teamdrive support/All other cloud services rclone.org supports
-    ✓ Unzip
-    ✓ Unrar
-    ✓ Untar
-    ✓ Custom file name
-    ✓ Custom commands
+
 
 ### Credit goes to SpEcHiDe for his [Publicleech](https://github.com/SpEcHiDe/PublicLeech)
 
@@ -23,7 +16,7 @@
 
 ### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prgofficial/LeechToStream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prgofficial/TorrentLeech-GDriVe)
 
 
 ### The Legacy Way
