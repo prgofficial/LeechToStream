@@ -34,7 +34,7 @@ Simply clone the repository and run the main file:
 
 ```sh
 git clone https://github.com/prgofficial/LeechToStream
-cd LeechToFile
+cd LeechToStream
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
