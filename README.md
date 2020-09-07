@@ -5,8 +5,8 @@
 ## This is a leech to Stream(video) repo! Leech to FILE availabe here > [LEECH TO FILE](https://github.com/prgofficial/LeechToFile)
 
 
-### For Support join here [MoviezOnlySupport](https://telegram.dog/moviezonlysupport)
-### Working example group [Leech Here](https://telegram.dog/leechtorrentmoviesonly)
+### For Support join here [InFoTelGroup](https://telegram.dog/InFoTelGroup)
+### Working example group -->> [PROleecher](https://telegram.dog/PROleecher)
 
 
 # Benefits :-
@@ -34,7 +34,7 @@ Simply clone the repository and run the main file:
 
 ```sh
 git clone https://github.com/prgofficial/LeechToStream
-cd LeechToStream
+cd LeechToFile
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
