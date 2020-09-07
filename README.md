@@ -5,8 +5,8 @@
 ## This is a leech to Stream(video) repo! Leech to FILE availabe here > [LEECH TO FILE](https://github.com/prgofficial/LeechToFile)
 
 
-### For Support join here [MoviezOnlySupport](https://telegram.dog/moviezonlysupport)
-### Working example group [Leech Here](https://telegram.dog/leechtorrentmoviesonly)
+### For Support join here [InFoTelGroup](https://telegram.dog/InFoTelGroup)
+### Working example group -->> [PROleecher](https://telegram.dog/PROleecher)
 
 
 # Benefits :-
@@ -15,7 +15,8 @@
     ✓ Custom commands
 	✓ Added /clearall command to clear the downloads which are not deleted automatically.
 	✓ Added support for youtube playlist ( use /pytdl )
-
+	✓ Added /getlog command to retrieve recent logs
+	✓ Added DISK details in /status commad.
 
 ### Credit goes to SpEcHiDe for his [Publicleech](https://github.com/SpEcHiDe/PublicLeech) repo
 
