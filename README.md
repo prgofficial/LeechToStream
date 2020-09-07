@@ -15,7 +15,8 @@
     ✓ Custom commands
 	✓ Added /clearall command to clear the downloads which are not deleted automatically.
 	✓ Added support for youtube playlist ( use /pytdl )
-
+	✓ Added /getlog command to retrieve recent logs
+	✓ Added DISK details in /status commad.
 
 ### Credit goes to SpEcHiDe for his [Publicleech](https://github.com/SpEcHiDe/PublicLeech) repo
 
@@ -34,7 +35,7 @@ Simply clone the repository and run the main file:
 
 ```sh
 git clone https://github.com/prgofficial/LeechToStream
-cd LeechToFile
+cd LeechToStream
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
